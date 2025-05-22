@@ -36,7 +36,7 @@ Este repositório documenta o **processo de criação e configuração de uma M�
      - Nome da VM: `vm-desafio-dio`  
      - Região: `Brazil South`  
      - Imagem: `Windows 11 Pro`, `Windows Server` ou `Ubuntu Server` 
-     - Tamanho: `Standard_B1s` (1 vCPU, 1 GiB RAM)  
+     - Tamanho: Escolha com base nas suas necessidades de desempenho e custo.
      - Autenticação: usuário `azureuser` + senha forte (Windows) / chaves SSH (Linux)  
    - **Discos**  
      - Tipo de disco padrão  
