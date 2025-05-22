@@ -31,7 +31,7 @@ Este repositório documenta o **processo de criação e configuração de uma M�
    - Nome: `rg-desafio-vm`
 
 3. **Criação da Máquina Virtual**  
-   - Menu: **Máquinas Virtuais → + Adicionar → Máquina Virtual**  
+   - Menu: **Máquinas Virtuais → + Criar → Máquina Virtual do Azure**  
    - **Basics**  
      - Nome da VM: `vm-desafio-dio`  
      - Região: `Brazil South`  
